@@ -8,7 +8,7 @@ Enhance your WhatsApp experience with a mix of static and animated stickers from
 
 # How to install:
 
-1. Install Sticker Maker by Viko & Co on Google Play or the App Store! 😎
+1. Install Sticker Maker by Viko & Co on <a href="https://play.google.com/store/apps/details?id=com.marsvard.stickermakerforwhatsapp">Google Play</a> or the App Store! 😎
 2. Download the .zip file from this repository! 😏
 3. Open your file explorer and extract the .zip file and open the .wasticker file using Sticker Maker! 😁
 4. Import the CD-i Madness Sticker Pack! 🤯
