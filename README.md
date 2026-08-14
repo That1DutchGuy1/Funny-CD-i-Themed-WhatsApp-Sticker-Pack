@@ -1,4 +1,7 @@
-# CD-i Madness!
+# CD-i Madness Sticker Pack!
+
+<img src="Stickers/Gwonam-Rave.webp" width="300" alt="Alt text">
+
 
 Mah boi! I present to you! Le CD-i Madness WhatsApp sticker pack! 😎
 Enhance your WhatsApp experience with a mix of static and animated stickers from your favorite CD-i games! ⭐️
