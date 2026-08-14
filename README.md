@@ -15,4 +15,4 @@ Enhance your WhatsApp experience with a mix of static and animated stickers from
 5. Squadala! You're off to use it in your chats! 👍🏻
 
 
-### Made by yours truly, That One Dutch Guy!
+### Made by yours truly, the super sexy and fabulous That One Dutch Guy!
