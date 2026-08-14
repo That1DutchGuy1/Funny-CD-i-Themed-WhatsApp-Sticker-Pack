@@ -1,6 +1,6 @@
 # CD-i Madness Sticker Pack!
 
-<img src="Stickers/Gwonam-Rave.webp" width="300" alt="Alt text">
+<img src="Gwonam-Rave-README-VERSION.webp" width="300" alt="Alt text">
 
 
 Mah boi! I present to you! Le CD-i Madness WhatsApp sticker pack! 😎
